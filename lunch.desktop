@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=lxterminal -e /home/pi/lunch/lunch.sh 
+Type=Application
+Name=Lunch
+Terminal=true
