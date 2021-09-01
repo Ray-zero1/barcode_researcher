@@ -21,7 +21,7 @@ Raspberry piによりバーコードから誰がバーコードをかざした�
   この/home/pi/.config/autostartに置くと自動実行できます
   
 # 物品例
-　３大隊の例
+　今回の例
   - ２次元バーコード： https://www.amazon.jp/dp/B084JPWS3X?ref=ppx_pop_mob_ap_share
   - Raspberry pi model3:https://www.amazon.jp/dp/B07K4DN1SJ?ref=ppx_pop_mob_ap_share
   - Raspberry pi用モニター:https://www.amazon.jp/dp/B07RZW9CWP?ref=ppx_pop_mob_ap_share
